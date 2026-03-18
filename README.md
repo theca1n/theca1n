@@ -2,7 +2,7 @@
 - 👀 I’m interested in mobile apps
 - 🌱 I’m currently learning Python and Swift.
 - 💞️ I’m looking to collaborate on old things
-- 📫 Instagram: theca1.c!
+- 📫 Instagram: theca1.c
 
 <!---
 theca1n/theca1n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
